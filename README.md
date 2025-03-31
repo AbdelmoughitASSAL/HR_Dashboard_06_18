@@ -1,4 +1,5 @@
 # 📊 Analyse des données RH (2006-2018) : Tableau de bord Power BI & bientôt une version Python 🚀  
+<img src="https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png" alt="Dashboard RH" width="600">
 
  - **Description**
 
