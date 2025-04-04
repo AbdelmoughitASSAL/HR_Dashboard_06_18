@@ -1,4 +1,4 @@
-# 📊 Analyse des données RH (2006-2018) : Tableau de bord Power BI & bientôt une version Python 🚀  
+# 📊 Analyse des données RH (2006-2018) : Tableau de bord Power BI & Python 🚀  
 <img src="https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png" alt="Dashboard RH" width="600">
 
  - **Description**
@@ -22,11 +22,11 @@ L'objectif principal est d'exploiter ces données pour **améliorer la gestion d
 ✅ Mise en place des **visualisations interactives** (graphes de répartition, cartes géographiques, indicateurs de performance).  
 ✅ Optimisation de l’expérience utilisateur pour une meilleure interprétation des résultats.  
 
-✅ Analyse des données avec Python   
+**✅ Analyse des données avec Python** 
 
 Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais manque d’interactivité, contrairement à Power BI.
 
-📌 *Prochaine étape :*
+📌 **Prochaine étape :**
 
 Je vais reproduire cette analyse avec Python pour bénéficier d’une flexibilité accrue, d’une automatisation avancée et d’une gestion optimisée des données volumineuses  
 
