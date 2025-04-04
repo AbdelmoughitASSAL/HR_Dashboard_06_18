@@ -22,9 +22,13 @@ L'objectif principal est d'exploiter ces données pour **améliorer la gestion d
 ✅ Mise en place des **visualisations interactives** (graphes de répartition, cartes géographiques, indicateurs de performance).  
 ✅ Optimisation de l’expérience utilisateur pour une meilleure interprétation des résultats.  
 
-🔜 À venir bientôt : Analyse des données avec Python   
+✅ Analyse des données avec Python   
 
-Bientôt, je vais reproduire cette analyse avec **Python**, en utilisant **Pandas, NumPy et Matplotlib**. Cette version permettra une **plus grande flexibilité**, une **automatisation avancée** et une **meilleure gestion des données volumineuses**.  
+Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais manque d’interactivité, contrairement à Power BI.
+
+📌 *Prochaine étape :*
+
+Je vais reproduire cette analyse avec Python pour bénéficier d’une flexibilité accrue, d’une automatisation avancée et d’une gestion optimisée des données volumineuses  
 
 💡 **Restez connectés pour découvrir cette version !**  
 
