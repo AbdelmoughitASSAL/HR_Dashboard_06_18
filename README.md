@@ -3,7 +3,7 @@
 
  - **Description**
 
-    Je suis ravi de partager un projet d’analyse de données RH réalisé avec **Power BI**, utilisant un jeu de données de 2006 à 2018. Ce tableau met en avant plusieurs indicateurs clés tels que la **répartition des employés**, leur **statut marital**, leur **performance**, leur **satisfaction**, ainsi que les **sources de recrutement** et la **distribution des salaires par département**.
+   Ce rapport offre une vue d'ensemble des tendances et indicateurs clés en ressources humaines sur une période de 12 ans (2006 à 2018). L'utilisation de **Power BI** et des fonctions DAX a permis d'extraire des insights stratégiques concernant **la répartition des effectifs**, **la performance**, **la satisfaction**, **la répartition géographique** et **les coûts salariaux**
    
 L'objectif principal est d'exploiter ces données pour **améliorer la gestion des ressources humaines**, comprendre les tendances d'emploi et optimiser la prise de décision stratégique.  
 
@@ -21,6 +21,8 @@ L'objectif principal est d'exploiter ces données pour **améliorer la gestion d
 ✅ Création des **KPIs clés** avec DAX (taux d’employés actifs, répartition par genre, ancienneté, etc.).  
 ✅ Mise en place des **visualisations interactives** (graphes de répartition, cartes géographiques, indicateurs de performance).  
 ✅ Optimisation de l’expérience utilisateur pour une meilleure interprétation des résultats.  
+
+
 
 🔄 Mise à jour du projet : 04/04/2025
 
