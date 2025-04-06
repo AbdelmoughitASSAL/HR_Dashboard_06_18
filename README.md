@@ -1,34 +1,43 @@
 # 📊 Analyse des données RH (2006-2018) : Tableau de bord Power BI & Python 🚀  
 <img src="https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png" alt="Dashboard RH" width="600">
 
- - **Description**
+ - **🔍 Aperçu du projet**
 
-    Je suis ravi de partager un projet d’analyse de données RH réalisé avec **Power BI**, utilisant un jeu de données de 2006 à 2018. Ce tableau met en avant plusieurs indicateurs clés tels que la **répartition des employés**, leur **statut marital**, leur **performance**, leur **satisfaction**, ainsi que les **sources de recrutement** et la **distribution des salaires par département**.
-   
-L'objectif principal est d'exploiter ces données pour **améliorer la gestion des ressources humaines**, comprendre les tendances d'emploi et optimiser la prise de décision stratégique.  
+Ce projet d’analyse RH repose sur un jeu de données couvrant la période 2006 à 2018, et a été décliné en **trois versions complémentaires** développées avec **Power BI et Python**.
 
-💡 Compétences développées :
+Il met en lumière plusieurs indicateurs clés tels que **la répartition des employés**, **le statut marital**, **la performance**, **la satisfaction**, **les sources de recrutement**,...etc.
 
-🔹 **DAX** : Création de mesures et de colonnes calculées pour obtenir des KPIs précis.  
-🔹 **Power BI** : Connexion aux données, modélisation, création de visuels interactifs et mise en page avancée.  
-🔹 **Analyse des données RH** : Étude des performances, de la satisfaction et de la répartition des employés pour détecter les tendances clés.  
-🔹 **Data Storytelling** : Mise en forme des résultats pour une lecture claire et intuitive.  
+- *📌 Version 1 – **Power BI (avec DAX)***
+  
+ • Création d’un tableau de bord interactif permettant une exploration dynamique des données RH.
+ 
+ • Utilisation de DAX pour construire des mesures personnalisées.
+ 
+ • Visualisation de KPI stratégiques.
+ 
+- *📌 Version 2 – Analyse avec **Python** (non interactive)*
+  
+ • Reproduction de l’analyse via les bibliothèques Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express
 
-🎯 Processus de création :
+ • Automatisation des traitements et structuration avancée des données
 
-✅ Nettoyage et structuration des données.  
-✅ Connexion et modélisation sous Power BI.  
-✅ Création des **KPIs clés** avec DAX (taux d’employés actifs, répartition par genre, ancienneté, etc.).  
-✅ Mise en place des **visualisations interactives** (graphes de répartition, cartes géographiques, indicateurs de performance).  
-✅ Optimisation de l’expérience utilisateur pour une meilleure interprétation des résultats.  
+ • Création de visualisations statiques et interprétations des résultats
 
-**✅ Analyse des données avec Python** 
+🔎 Limite constatée : Absence d’interactivité, contrairement à Power BI
 
-Première version de l’analyse réalisée avec Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express. Cette approche permet un traitement efficace des données, mais manque d’interactivité, contrairement à Power BI.
+📌 Version 3 – Python interactif + étude de corrélation
 
-📌 **Prochaine étape :**
+ • Développement d’une version améliorée et interactive avec Streamlit pour simuler l’expérience d’un tableau de bord
 
-Je vais reproduire cette analyse avec Python pour bénéficier d’une flexibilité accrue, d’une automatisation avancée et d’une gestion optimisée des données volumineuses  
+ • Ajout d’un tableau de corrélation pour étudier les relations entre variables (ex. : satisfaction vs. performance, ancienneté vs. salaire)
+
+**🛠️ Technologies utilisées :**
+
+*Power BI, DAX, Python, Pandas, Matplotlib, Seaborn, GeoPandas, Plotly Express, Streamlit*
+
+**🎯 Objectif global :**
+
+*Combiner la visualisation interactive de Power BI et la puissance analytique de Python pour une analyse RH complète, évolutive et orientée décision.*
 
 💡 **Restez connectés pour découvrir cette version !**  
 
