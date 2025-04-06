@@ -7,7 +7,7 @@ Ce projet d’analyse RH repose sur un jeu de données couvrant la période 2006
 
 Il met en lumière plusieurs indicateurs clés tels que **la répartition des employés**, **le statut marital**, **la performance**, **la satisfaction**, **les sources de recrutement**,...etc.
 
-- *📌 [Version 1 – **Power BI (avec DAX)](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png)*
+- *📌 [Version 1 – Power BI (avec DAX)](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png)*
   
  • Création d’un tableau de bord interactif permettant une exploration dynamique des données RH.
  
