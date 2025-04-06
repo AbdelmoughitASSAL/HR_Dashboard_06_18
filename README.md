@@ -7,7 +7,7 @@ Ce projet d’analyse RH repose sur un jeu de données couvrant la période 2006
 
 Il met en lumière plusieurs indicateurs clés tels que **la répartition des employés**, **le statut marital**, **la performance**, **la satisfaction**, **les sources de recrutement**,...etc.
 
-- *📌 Version 1 – **Power BI (avec DAX)***
+- *📌 [Version 1 – **Power BI (avec DAX)](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/1.png)***
   
  • Création d’un tableau de bord interactif permettant une exploration dynamique des données RH.
  
@@ -15,7 +15,7 @@ Il met en lumière plusieurs indicateurs clés tels que **la répartition des em
  
  • Visualisation de KPI stratégiques.
  
-- *📌 Version 2 – Analyse avec **Python** (non interactive)*
+- *[📌 Version 2 – Analyse avec **Python** (non interactive)](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/HR-PYTHON.ipynb)*
   
  • Reproduction de l’analyse via les bibliothèques Pandas, NumPy, Matplotlib, Seaborn, GeoPandas et Plotly Express
 
@@ -25,8 +25,8 @@ Il met en lumière plusieurs indicateurs clés tels que **la répartition des em
 
 🔎 Limite constatée : Absence d’interactivité, contrairement à Power BI
 
-📌 Version 3 – Python interactif + étude de corrélation
-
+- *[📌 Version 3 – Python interactif + étude de corrélation](https://github.com/AbdelmoughitASSAL/HR_Dashboard_06_18/blob/main/RH%20table.pdf)*
+  
  • Développement d’une version améliorée et interactive avec Streamlit pour simuler l’expérience d’un tableau de bord
 
  • Ajout d’un tableau de corrélation pour étudier les relations entre variables (ex. : satisfaction vs. performance, ancienneté vs. salaire)
